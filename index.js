@@ -9,7 +9,7 @@ const source = Object.freeze({
   name: "",
   created_at: "",
   updated_at: "",
-  url: "https://docs.rapidplatform.com"
+  url: ""
 });
 
 const result = {
